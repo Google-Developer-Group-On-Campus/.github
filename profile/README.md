@@ -1,4 +1,4 @@
-## Google developer Groups On Campus University Of Karachi
+## Google Developer Groups On Campus (University Of Karachi)
 
 GDGoC-UoK Is a platform for the students who need to develop their skills with cutting-edge advancements, and they are excited to tackle the issues of the world or their community. It's a perfect and ideal opportunity to be a part of GDSC that will open many opportunities for your career and amplify the individual's networking channel. It's a platform to learn and grow, pick your mentors and learn from their experiences of overcoming adversity, their encounters with challenges, and gain industry insights from them.
 
